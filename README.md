@@ -443,7 +443,7 @@ Gantt charts help teams to plan work around deadlines and properly allocate reso
 Benefits of a Gantt Chart
 The Gantt chart identifies tasks that may be executed in parallel and those that can’t be started or finished until others are complete. It can help detect potential bottlenecks and identify tasks that may have been excluded from the project timeline.
 The chart depicts things like task slack time or additional time for completion of a task that shouldn’t delay the project; noncritical activities that may be delayed; and critical activities that must be executed on time.
-Gantt charts can be used in managing projects of all sizes and types. These may include building infrastructures like dams, bridges, and highways. They may also include software development and other technologies. Project management tools, such as Microsoft Visio, Project, SharePoint, and Excel, or specialized software, such as Gantto or Matchware, can help in designing Gantt charts. 
+Gantt charts can be used in managing projects of all sizes and types. These may include building infrastructures like dams, bridges, and highways. They may also include software development and other technologies. Project management tools, such as Microsoft Visio, Project, SharePoint, and Excel, or specialized software, such as Gantto or Matchware, can help in designing Gantt charts.    
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
