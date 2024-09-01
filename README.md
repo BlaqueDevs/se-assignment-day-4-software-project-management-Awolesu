@@ -5,7 +5,7 @@
 
 Ans;
 Timely project delivery is essential for any business operation, as it affects customer satisfaction, profitability, and reputation. However, many factors can cause delays, such as scope creep, resource constraints, communication breakdowns, and unexpected risks.
-The important of time delivery in softwear management include; 
+The important of time delivery in softwear management include;       
 1. Meeting Client Expectations
 One of the most important reasons why timely deliveries are crucial in project management is that it helps in meeting client expectations.
 2. Mitigating Risks
